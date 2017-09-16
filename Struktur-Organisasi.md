@@ -13,7 +13,7 @@
 ### 5. Divisi Mobile
 - [M. Noor Eldianto](http://github.com/L007/)
 ### 6. Divisi Web
-- Rachmad Agung Bagaskoro
+- [Rachmad Agung Bagaskoro](https://github.com/rachmadbagas)
 ### 7. Divisi Game
 - Zulfikar Assyura
 - [Sofyan Sugianto](http://github.com/artemtech)
