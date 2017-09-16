@@ -11,7 +11,7 @@
 ### 4.  Koordinator Asisten Pemrograman Berbasis Objek
 - Zulfikar Assyura
 ### 5. Divisi Mobile
-- [M. Noor Eldianto](http://github.com/L007/)
+- [M. Noor Dwi Eldianto](http://github.com/L007/)
 ### 6. Divisi Web
 - [Rachmad Agung Bagaskoro](https://github.com/rachmadbagas)
 ### 7. Divisi Game
